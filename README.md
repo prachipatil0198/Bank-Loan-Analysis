@@ -6,7 +6,7 @@ This project focuses on analyzing **bank loan data** using **MySQL** and **Power
 ---
 
 ## 🔹 Tools & Technologies  
-- **PostgreSQL** – Database creation, SQL queries, KPI calculations  
+- **MySQL** – Database creation, SQL queries, KPI calculations  
 - **Power BI** – Interactive dashboard design and visualization  
 - **Excel** – Data validation and quick comparisons  
 
