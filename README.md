@@ -13,7 +13,7 @@ This project focuses on analyzing **bank loan data** using **MySQL** and **Power
 ---
 
 ## 🔹 Key Functionalities & Skills Applied  
-### **PostgreSQL**  
+### **MySQL**  
 - Database & table creation  
 - Data cleaning and transformations  
 - Advanced SQL queries with `CTE`, `PARTITION`, `GROUP BY`, `DATEPART`, and aggregations  
