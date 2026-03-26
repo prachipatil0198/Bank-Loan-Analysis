@@ -1,7 +1,7 @@
 # 📊 Bank Loan Analysis Dashboard  
 
 ## 🔹 Project Overview  
-This project focuses on analyzing **bank loan data** using **PostgreSQL** and **Power BI** to uncover insights into loan applications, funded amounts, repayments, and borrower demographics. The analysis transforms raw loan data into **interactive dashboards** that support **risk management, portfolio monitoring, and customer insights** for banking institutions.  
+This project focuses on analyzing **bank loan data** using **MySQL** and **Power BI** to uncover insights into loan applications, funded amounts, repayments, and borrower demographics. The analysis transforms raw loan data into **interactive dashboards** that support **risk management, portfolio monitoring, and customer insights** for banking institutions.  
 
 ---
 
