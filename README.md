@@ -1,4 +1,9 @@
-# 🚀 Bank Loan Analysis Dashboard
+<p align="center">
+  <b>📊 End-to-End Loan Portfolio Analysis using SQL & Power BI</b>
+</p>
+
+
+# Bank Loan Analysis Dashboard
 
 ## 🔹 Project Overview
 
