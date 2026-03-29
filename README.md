@@ -3,6 +3,7 @@
 ## 🔹 Project Overview
 
 This project focuses on performing end-to-end loan portfolio analysis using MySQL and Power BI to spot actionable insights from banking data. The analysis covers loan applications, funded amounts, repayment behavior, borrower segmentation, and credit risk indicators.
+
 The project demonstrates core data analytics workflows including data extraction, data cleaning, transformation, exploratory data analysis (EDA), KPI development, and dashboard creation. Interactive dashboards were built to support business intelligence, risk assessment, and data-driven decision-making in the banking domain.
 
 ---
@@ -10,6 +11,7 @@ The project demonstrates core data analytics workflows including data extraction
 ## 🔹 Business Problem
 
 Banks require a structured approach to monitor loan portfolio performance, track repayment behavior, and identify high-risk borrowers. Without proper analytics, it becomes difficult to evaluate credit risk, manage cash flow, and optimize lending strategies.
+
 This project solves this problem by transforming raw loan data into meaningful KPIs, insights, and interactive dashboards for portfolio monitoring and decision support.
 
 ---
